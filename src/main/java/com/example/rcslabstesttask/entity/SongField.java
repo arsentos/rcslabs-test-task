@@ -2,7 +2,6 @@ package com.example.rcslabstesttask.entity;
 
 
 public enum SongField {
-
     artist,
     song,
     duration_ms,
